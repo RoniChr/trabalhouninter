@@ -1,58 +1,88 @@
-h1{
-font-size: 60px;
-text-align: center; }
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
 
 
-p{
-font-size: 28px;
-text-align: justify; 
-margin: 200px;
-padding: 10px;}
+p {
+  font-size: 28px;
+  text-align: justify;
+  margin: 200px;
+  padding: 10px;
+}
 
-li{
-    font-size: 16px;
-    line-height: 2;
-    letter-spacing: 1;}
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1;
+}
 
-html {background-color: rgb(163, 228, 133);}
+html {
+  background-color: rgb(163, 228, 133);
+}
 
-h2{
-font-size: 20px;
-text-align: center; }
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
 
 
-ul{
-font-size: 10px;
-text-align: left; 
-margin-bottom: 10px;}
+ul {
+  font-size: 10px;
+  text-align: left;
+  margin-bottom: 10px;
+}
 
-li
-{font-size: 30px;}
+li {
+  font-size: 30px;
+}
 
-  table {
-    width: 40%;
-    margin: 40px auto;
-    border-collapse: collapse;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    background-color: #fff;}
+table {
+  width: 40%;
+  margin: 40px auto;
+  border-collapse: collapse;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
 
-    td, th {
-      border: 1px solid #000000;
-      padding: 10px;
-      text-align: left;}
-    
-img{
-border-radius: 20px;
-width: 280px;        
-height: auto;}
+td,
+th {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: left;
+}
 
-link
-a {
-      color: rgb(134, 19, 211);
-      text-decoration: none;
-    }
+img {
+  border-radius: 20px;
+  width: 280px;
+  height: auto;
+}
 
-    a:hover {
-      color: red; 
-      text-decoration: underline; 
-    }
+link a {
+  color: rgb(134, 19, 211);
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#mensagem {
+  margin-top: 15px;
+  font-size: 18px;
+  color: rgb(9, 9, 20);
+}
